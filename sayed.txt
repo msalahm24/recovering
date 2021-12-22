@@ -1,0 +1,3 @@
+this is a new file i will stage it in the index after this i will edit it and try to satge it
+
+this line to try to add it again
